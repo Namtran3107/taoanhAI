@@ -1,0 +1,8 @@
+
+{
+  "name": "CoutureAI - Fashion Visual Compositor",
+  "description": "A high-end fashion design tool for generating professional lookbook imagery using AI-powered visual composition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
